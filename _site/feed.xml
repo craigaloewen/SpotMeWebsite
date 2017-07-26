@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Jul 2017 10:07:07 -0700</pubDate>
-    <lastBuildDate>Wed, 26 Jul 2017 10:07:07 -0700</lastBuildDate>
+    <pubDate>Wed, 26 Jul 2017 11:33:59 -0700</pubDate>
+    <lastBuildDate>Wed, 26 Jul 2017 11:33:59 -0700</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -91,15 +91,22 @@
       </item>
     
       <item>
-        <title>Submarine</title>
-        <description>&lt;p&gt;Here’s some information all about someone!
-Look at all this info!&lt;/p&gt;
+        <title>Craigloewen</title>
+        <description>&lt;p&gt;Hi my name’s Craig!&lt;/p&gt;
 
-&lt;p&gt;Woweeee&lt;/p&gt;
+&lt;p&gt;I’m a Mechatronics Engineering student at the University of Waterloo. I’m also a program management intern working at Microsoft for the summer of 2017, on the Windows Console and Windows Subsystem for Linux team.&lt;/p&gt;
+
+&lt;p&gt;I’m really passionate about fitness, and so I was excited to start Spot Me! I built a prototype for the app in 2016, and it’s AMAZING to see the what our team could do to make the app usable and fun!&lt;/p&gt;
+
+&lt;p&gt;My main contributions to the app were &lt;strong&gt;leading development for the code base&lt;/strong&gt;, and &lt;strong&gt;project management&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a PM it was amazing to work with this team, as we were quite cross disciplinary with Melissa being a designer, Kent being a story teller, and Jhony being a developer. I was able to wrangle our different interests and skills to create the app you see before you on this website!&lt;/p&gt;
+
+&lt;p&gt;As a developer lead Spot Me posed a significant technological challenge. It took a lot of research and finetuning to make the machine learning algorithm accurately predict your form, and lots of code hours to make the UI behave like the proposed design.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2016/02/01/submarine.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/02/01/submarine.html</guid>
+        <link>http://localhost:4000/2016/02/01/craigloewen.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/02/01/craigloewen.html</guid>
         
         
       </item>
