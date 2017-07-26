@@ -1,7 +1,7 @@
 ---
 layout: post
-img: /img/portfolio/craigthumbnail.png
-fullimg: /img/portfolio/craigfull.jpg
+img: img/portfolio/craigthumbnail.png
+fullimg: img/portfolio/craigfull.jpg
 modalID: modalCraigLoewen
 
 name: "Craig Loewen"
