@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Craig
 img: img/portfolio/craigthumbnail.png
 fullimg: img/portfolio/craigfull.jpg
 modalID: modalCraigLoewen

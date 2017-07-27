@@ -1,13 +1,19 @@
 ---
 layout: post
-title:  "Safe"
-date:   2016-02-02 15:08:10 -0500
-img: img/portfolio/safe.png
-modalID: modalSafe
-category: Design
+img: img/portfolio/craigthumbnail.png
+fullimg: img/portfolio/craigfull.jpg
+modalID: modalKentWalter
+
+name: Kent Walter
+position: Storytelling and Marketing
+email: kentwalter@outlook.com
+website: www.silvanaudioworkshop.com
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
 
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
+Hi there! I’m Kent.
 
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+I’m a marketing producer working on merchandising for the Store on Xbox. After participating in Hacakathon before but focusing on marketing projects, I was excited this year to go further outside my day to day and jump in to something more conventionally “hacky” – Kinect + machine learning + fitness was just the right combination.
+
+My main contributions to the project were the script and production of the video and contributing a handful of reasonable ideas to the UX flows.
+
+Being focused on storytelling and less conversant than the rest of the team in the technical nuts and bolts, I had the opportunity to be blown away by the dark, impenetrable arts that are competent design and molding 1s and 0s into a functioning app. I’m grateful to the team for letting me sit at the cool table and proud to have been a part of an awesome project.
