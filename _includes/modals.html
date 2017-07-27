@@ -22,12 +22,12 @@
                         <ul class="list-inline item-details">
                             {% if post.twitter %}
                             <li>
-                                Twitter - {{ post.twitter }}<a href="https://www.twitter.com/{{ post.twitter }}" class="btn-social"><i class="fa fa-twitter"></i></a>
+                                <a href="https://www.twitter.com/{{ post.twitter }}" >Twitter - {{ post.twitter }} <i class="fa fa-twitter"></i></a>
                             </li>
                             {% endif %}
                             {% if post.github %}
                             <li>
-                                Github - {{ post.github }}<a href="https://www.github.com/{{ post.github }}" class="btn-social"><i class="fa fa-github"></i></a>
+                                <a href="https://www.github.com/{{ post.github }}" >Github - {{ post.github }} <i class="fa fa-github"></i></a>
                             </li>
                             {% endif %}
                             {% if post.email %}
@@ -37,7 +37,7 @@
                             {% endif %}
                             {% if post.email %}
                             <li>
-                                Personal Website: {{ post.website }}
+                                Personal Website: <a href="http://{{ post.website }}">{{ post.website }}</a>
                             </li>
                             {% endif %}
                         </ul>
